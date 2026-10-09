@@ -136,6 +136,13 @@ The project demonstrates how sales analytics and dashboard reporting can help bu
 - Exploring AI-assisted tools to improve productivity.
 
 ---
+## ScreenShots
+<img width="1650" height="1275" alt="Image" src="https://github.com/user-attachments/assets/7838053c-b629-44c8-ba58-50654dee98f6" />
+
+<img width="1650" height="1275" alt="Image" src="https://github.com/user-attachments/assets/1ef581fa-f9fa-4f52-91f9-5d4f8bfa64e9" />
+
+<img width="1650" height="1275" alt="Image" src="https://github.com/user-attachments/assets/1063ba9c-d2bd-4c9e-bf24-1d36026aec03" />
+
 
 ## 👨‍💻 About Me
 
